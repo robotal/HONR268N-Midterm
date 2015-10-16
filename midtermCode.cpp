@@ -1,3 +1,15 @@
+/*Honors Physics Midterm
+ *Group Members:
+ *
+ *Tal Davidi
+ *Anibal Quiroz
+ *Bhaswanth Potarlanka
+ *
+ *
+ *
+ */
+
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
